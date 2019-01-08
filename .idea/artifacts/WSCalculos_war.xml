@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WSCalculos:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="WSLimites-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WSCalculos:war exploded" />
+    </root>
+  </artifact>
+</component>
