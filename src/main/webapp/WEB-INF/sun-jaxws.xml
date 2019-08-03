@@ -3,7 +3,7 @@
 <endpoints xmlns='http://java.sun.com/xml/ns/jax-ws/ri/runtime' version='2.0'>
 
     <endpoint
-            name='WSCalculos'
-            implementation='com.besysoft.implementations.WSCalculosImpl'
-            url-pattern='/WSCalculos' />
+            name='WSTemplate'
+            implementation='com.proyecto.britos.implementations.WSTemplateImpl'
+            url-pattern='/WSTemplate' />
 </endpoints>
